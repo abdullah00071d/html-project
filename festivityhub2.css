@@ -1,0 +1,424 @@
+body{
+    background: radial-gradient(#fff,#ffd6d6);
+    margin: 0;
+
+}
+.top-container {
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+}
+header{
+    display: flex;
+    align-items: center;
+    border-style:solid;
+    border: 3px, solid black;
+    background-color: white;
+    margin-bottom: 5px;
+    height: 300px;
+}
+
+#one{
+    margin-right: 270px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#one a:hover{
+    color: azure;
+}
+#two{
+    text-align: center;
+    color: plum;
+    vertical-align: middle;
+    font-size: 20px;
+    line-height: 1.2;
+    font-family:cursive;
+    margin-right: 470px;
+    text-indent: 10px;
+}
+
+#three a:hover{
+    color:burlywood ;
+}
+#four{
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+}
+#five{
+    background-color:white;
+    height: 10px;
+    width: 100px;
+    border-style: solid;
+    border: 3px, solid  white;
+    margin-top: 7px;
+    margin-left: 30px;
+}
+#six{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(100, 159, 57);
+    border-style: solid;
+    border: 2px black;
+}
+#six a:hover{
+    color: black;
+}
+#seven{
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    margin-left: 0px;
+    text-indent: 12px;
+}
+footer{
+    border-style:solid;
+    border: 3px, solid black ;
+    background-color:white;
+    margin-bottom: 10px; 
+    margin-top: 7px;
+    
+}
+#eight{
+    margin-left: 0px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#nine{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*oval*/
+#ten{ 
+        background-color:white;
+        width: 200px;
+        height: 50px;
+        margin: 10px auto 0px;
+        color: white;
+        font-size: 20px;
+        
+}
+
+#ten a:hover{
+    color: rgb(70, 194, 115);
+}
+
+#eleven{
+    margin-top: 1px;
+    text-align: center;
+    padding-top: 5%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#twelve{
+    text-align: center;
+    font-size: 30px;
+    color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#thirteen{
+    height: 20px;
+    width: 500px;
+    border-style: double;
+    border:5px, double cadetblue;
+    background-color:beige;
+    margin-left: 5px;
+    vertical-align: top;
+    line-height: 1.8;
+    padding: 100px;
+}
+#fourteen{
+    box-shadow: 8px 8px 8px burlywood;
+    border-right: 10px;
+    margin-bottom: 15px;
+}
+#fifthteen{
+    font-family: Arial, Helvetica, sans-serif;
+    color: burlywood;
+    margin-bottom: 0px;
+    border-bottom: solid;
+    
+
+}
+#sixthteen{
+    font-family: Arial, Helvetica, sans-serif;
+    color: burlywood;
+    
+}
+#seventeen{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: burlywood;
+    margin-left: 10px;
+    text-align: center;
+}
+#eighteen{
+    height: 10px;
+    width: 385px;
+    border-style: solid;
+    border: 3px, solid  gray;
+    margin-top: 7px;
+    margin-left: 500px;
+    margin-bottom: 5px;
+    background-color: white;
+}
+#nineteen{
+    font-family:Arial, Helvetica, sans-serif;
+    color: burlywood;
+    border-style: solid;
+    border: 2px black;
+
+}
+#eighteen :hover{
+    color:gray;
+}
+#twenty th{
+    padding: 20px; 
+    margin-right: 15px; 
+    background-color: #f9f9f9; 
+    border-radius: 8px; 
+    border: 1px solid #ddd; 
+    vertical-align: top; 
+    
+}
+#twentyone{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:burlywood;
+    margin-left: 10px;
+    line-height: 1.8;
+    background-color: white;
+    border: solid;
+    border-style: solid, 5px;
+
+}
+#twentytwo{
+    width: 1000px;
+}
+#twentytwo{
+        font-size: 35px;
+        font-family:Arial, Helvetica, sans-serif;
+        color:beige;
+}
+.centered1{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#twentythree{
+    height: 20px;
+    width: 1400px;
+    background-color:white;
+    margin-left: 5px;
+    vertical-align: top;
+    line-height: 1.8;
+    padding: 10px;
+    color: burlywood;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+/* About us*/
+#twentyfour{
+    text-align: center;
+    color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#twentyfive{
+    color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 7px;
+}
+#twentysix{
+    background-color: white;
+    border: solid;
+    border-style: solid, 5px;
+    border-color: burlywood;
+    margin-left: 5px;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+#twentyseven{
+    background-color: white;
+    margin-left: 5px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    border-right: 5px, solid, burlywood;
+}
+#twentyeight{
+    font-size: 17px;
+    color: burlywood;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+#twentyseven a:hover{
+    color:gray;
+}
+#twentynine{
+    margin-left: 0px;
+}
+#twentynine a:hover{
+    color: burlywood;
+}
+#twelve a:hover{
+    color: burlywood;
+}
+.container2{
+    position: relative;
+    text-align: center;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dropbtn {
+    background-color: burlywood;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.dropdown {
+    position:relative ;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 110px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown:hover .dropbtn {
+    background-color: black;
+}
+
+input[type=text], input[type=name] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px;
+    display: block;
+    border: none;
+    background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=name]:focus {
+    background-color: #ddd;
+    outline: none;
+    margin-right: 100px;
+}
+
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+button:hover {
+    opacity:1;
+}
+
+.cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+
+.cancelbtn, .signupbtn {
+    float: center;
+    width: 50%;
+}
+
+.containerf {
+    padding: 16px;
+    color: burlywood;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+@media screen and (max-width: 300px) {
+.cancelbtn, .signupbtn {
+    width: 100%;
+}
+}
+form{
+    background-color: white;
+    margin-left: 150px;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#thirtynine{
+    background-color: white;
+    margin-left: 40px;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#thirty{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+#thirtyone{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#thirtyone a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#thirtyone a:hover{
+    color: burlywood;
+}
